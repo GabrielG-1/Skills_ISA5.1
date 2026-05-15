@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "name": "generar_tabla_io",
+      "description": "Genera una tabla de entradas y salidas (I/O) industriales y dimensiona hardware basándose en una lista de equipos y la norma ISA-5.1.",
+      "file": "industrial_io_generator.py",
+      "function": "generar_tabla_io"
+    }
+  ]
+}
